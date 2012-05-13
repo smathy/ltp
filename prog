@@ -1,1 +1,17 @@
 #!/usr/bin/env ruby
+
+l = "Lorcan"
+
+j = "Jason"
+
+f = "fallon"
+
+s ="sinéad"
+
+b = "bernie"
+
+d = "doug"
+
+puts "today I got up from bed and met " + f + " going to the toilet like usually,then I asked her if she wanted to come downstairs whith me, she said  sure so we went downstairs and had breakfast then " + b + " and " + d + " woke up."
+
+puts "Foo #{j} bar #{l}"
